@@ -1,5 +1,6 @@
 body {
-	background-color:#FFE4E1;
+	background-color:#005256;
+	color:#7D80DA;
 	padding:30px;
 }
 
@@ -26,17 +27,17 @@ font-size: 20px;
 }
 
 a:link {
-color:#7B68EE;
+color:#A40E43;
 font-size: 1em;
 }
 
 a:visited {
-color:#4169E1;
+color:#00347C;
 font-size: 1em;
 }
 
 a:hover {
-color:#00FF00;
+color:#341870;
 background-color: #7B68EE;
 border-radius: 5px;
 padding: 3px;
