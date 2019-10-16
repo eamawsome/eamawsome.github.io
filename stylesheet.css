@@ -1,5 +1,17 @@
 body{
-	background-color: HONEYDEW;
-	color: #ffaea5;
+	background-color: #011638;
+	color: #560053;
 	font-family: 'Bilbo Swash Caps', cursive;
+}
+
+a:link {
+  color: #C93849;
+}
+
+a:visited {
+  color: #5F5AA2;
+}
+
+a:hover {
+  color: #00375E;
 }
